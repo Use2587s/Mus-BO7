@@ -41,7 +41,7 @@ export default class OrasConfig extends Object {
             guildDelete: "",//put webhook
             Cmds: "",//put webhook
         };
-        this.server = "https://discord.gg/codersplanet";
+        this.server = "https://discord.gg/login";
         this.botinvite = ``;//put you bot invite link
         this.spotiId = "6c31645ffb004ab8b44d06f7b96d1b66";
         this.spotiSecret = "3618fdc0b4824cfd91a8d425dac32987";
